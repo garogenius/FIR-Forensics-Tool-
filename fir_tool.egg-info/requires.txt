@@ -1,0 +1,5 @@
+cryptography
+pyicloud
+yara-python
+google-auth
+google-api-python-client
